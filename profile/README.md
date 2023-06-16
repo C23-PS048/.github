@@ -18,7 +18,7 @@ Sprout is a personal gardening assistant that able to help people start to devel
 This is our features from Sprout App
 
 ```
-1. Plant Detection
+1. Plant Recognition
 2. plant Disease Recognition
 ```
 
